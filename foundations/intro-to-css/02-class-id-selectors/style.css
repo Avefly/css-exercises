@@ -1,5 +1,18 @@
-p {
-  background-color: #DAA7AE;
-  font: "Verdana", "DejaVu Sans", "sans-serif";
+.odd {
+  background-color: hwb(352 70% 0%);
+  font: Verdana, "DejaVu Sans", sans-serif;
 }
 
+#numbertwo {
+  color: #231bf6;
+  font-size: 36px;
+}
+
+#numberfour {
+  background-color: hwb(137 52% 8%);
+  font-size: 24px;
+}
+
+.special {
+  font-size: 24px
+}
